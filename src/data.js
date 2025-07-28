@@ -1,5 +1,4 @@
 export const CATEGORIES = ["All", "Code", "Food", "Money", "Misc"];
-
 export const TASKS = [
   {
     text: "Buy rice",
@@ -25,8 +24,6 @@ export const TASKS = [
     text: "Cook rice",
     category: "Food",
   },
-  {
-    text: "Tidy house",
-    category: "Misc",
-  },
+  {text: "Tidy house",
+    category: "Misc",},
 ];
